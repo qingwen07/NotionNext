@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'bigbear.com',
   HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新推荐资源',
-  HEO_HERO_TITLE_LINK: '#',
+  HEO_HERO_TITLE_LINK: 'https://x.com/shadouyoua',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
