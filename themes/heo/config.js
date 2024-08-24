@@ -17,10 +17,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享云盘资源',
   HEO_HERO_TITLE_2: '与视频课程',
-  HEO_HERO_TITLE_3: 'bigbear.com',
+  HEO_HERO_TITLE_3: 'bbshare.site',
   HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新推荐资源',
-  HEO_HERO_TITLE_LINK: 'https://x.com/shadouyoua',
+  HEO_HERO_TITLE_LINK: 'https://www.bbshare.site/recomment',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
