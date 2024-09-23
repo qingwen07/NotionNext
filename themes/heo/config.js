@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '超过1000万人在用的AI效率工具，输入标题，1分钟完成PPT制作，点击立即体验↓↓', url: 'https://www.aippt.cn/api/share/page?utm_unit=PCTM&code=a6f38ca27a' },
-    { title: '点我及时获取最新有用、有趣的资源', url: 'https://t.me/daxiongshare' }
+    { title: '点我教你0元0基础搭建与本站一模一样的网站', url: 'https://mall.findgpts.shop?cid=7&mid=20' }
+    { title: '点我教你搞钱，点点手指轻松达到每周赚800', url: 'https://mall.findgpts.shop?cid=7&mid=19' }
   ],
 
   // 英雄区左右侧组件颠倒位置
