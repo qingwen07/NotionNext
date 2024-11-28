@@ -70,7 +70,8 @@ const BlogPostCard = ({ index, post, showSummary, siteInfo }) => {
               {siteConfig('POST_TITLE_ICON') && (
                 <NotionIcon icon={post.pageIcon} />
               )}
-              <span className='menu-link '>{post.title}</span>
+              {/* modify by alan 2024-11-28 span to h2 */}
+              <h2 className='menu-link '>{post.title}</h2>
             </Link>
           </header>
 

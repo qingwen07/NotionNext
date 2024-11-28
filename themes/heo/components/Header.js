@@ -158,10 +158,11 @@ const Header = props => {
             </div>
             <div
               className={`absolute transition-all duration-700 ${activeIndex === 1 ? 'opacity-100 mb-0' : '-mb-20 opacity-0 invisible'}`}>
-              <h1 className='font-bold text-center text-light-400 dark:text-gray-400'>
+              {/* modify by alan 2024-11-28 h1 to div */}
+              <div className='font-bold text-center text-light-400 dark:text-gray-400'>
                 {siteConfig('AUTHOR') || siteConfig('TITLE')}{' '}
                 {siteConfig('BIO') && <>|</>} {siteConfig('BIO')}
-              </h1>
+              </div>
             </div>
           </div>
 
